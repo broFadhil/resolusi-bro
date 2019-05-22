@@ -1,7 +1,8 @@
 broFadhil Resolusi
 1. membeli laptop dengan uang sendiri
 2. tingkatkan belajar
-3. khatam quran di bulan ramadhan ini.
-4. test github
-  ^Branch
-5. belajar GIT
+3. test github
+  ^branch
+  ^fork
+4. belajar GIT
+
