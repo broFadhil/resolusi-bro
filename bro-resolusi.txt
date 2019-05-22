@@ -4,3 +4,5 @@ broFadhil Resolusi
 3. test github
   ^branch
   ^fork
+4. belajar GIT
+
